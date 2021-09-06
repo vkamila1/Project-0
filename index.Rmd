@@ -1,5 +1,5 @@
 ---
-title: "MyLabJournal"
+title: "Introductions"
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ output: html_document
 }
 
 #getting-started img {
-  margin-right: 10px;
+  center: 10px;
 }
 
 </style>
@@ -17,27 +17,24 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **My Lab Journal**
+# **Introductions**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+Hey y'all, how do you like my website?
 
-## How to use
+# Project 0 Requirements
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
+Under the introductions tab you will see my answers to all of the required elements as well as some photos. 
 
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
+Under the links tab you will see two links.
 
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
+To the right is a picture of Janet, my dog, and I during a hike in New Mexico at El Morro National Monument. Very pretty place. Also yes, my pant print is "grubs" or black soldier fly larvae to be precise. 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
+### Janet is the cutest pupper in the world
 
-<a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](images/el morro tori 2.jpg)
 </a>
 </div>
+
